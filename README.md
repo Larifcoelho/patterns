@@ -11,23 +11,4 @@ O objetivo é estudar e aplicar os conceitos de **Singleton**, **Strategy** e **
 ---
 
 
-
-## 🚀 Padrões Implementados
-
-
-
-### 🔹 Singleton - `AppConfig`
-
-Garante que apenas **uma instância** da classe exista em toda a aplicação.  
-
-No projeto, é usado para armazenar configurações globais da aplicação.
-
-
-
-Exemplo no código:
-
-```java
-
-AppConfig config = AppConfig.getInstance();
-
-System.out.println("App: " + config.getAppName());
+📌 Este projeto foi desenvolvido como parte do Bootcamp Santander/DIO. Ainda estou aprendendo os conceitos de Padrões de Projeto (Patterns) e APIs em Java, então este repositório representa meu ponto de partida. Pretendo revisitá-lo futuramente para melhorar minha compreensão.
